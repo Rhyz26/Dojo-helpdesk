@@ -9,7 +9,7 @@ function Navbar(){
         <Image
         src={Logo}
         alt='Dojo Helpdesk logo'
-        width={70}
+        width={170}
         quality={100}
         placeholder='blur'
         />
@@ -18,7 +18,7 @@ function Navbar(){
           <Link href="/tickets">Tickets</Link>
           
 
-        </nav>
+    </nav>
 
   )
 }

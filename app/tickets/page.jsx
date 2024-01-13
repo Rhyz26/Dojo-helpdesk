@@ -2,10 +2,10 @@ import React from 'react'
 
 function Page(){
   return (
-    <div>
-        <h1>hello world</h1>
-    </div>
+    <main>
+        <h2>Tickets</h2>
+    </main>
   )
-}
+} 
 
 export default Page;
